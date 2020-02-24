@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dc9be01-0488-4377-a83e-5f7d6ff77d43" name="Default Changelist" comment="" />
+    <list default="true" id="3dc9be01-0488-4377-a83e-5f7d6ff77d43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytestsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mytestsite/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YAjx8vQ2YYwg5a0PoXpbWF0b0L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -64,25 +83,25 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="749" y="322" width="1092" height="857" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-1440.-645.1440.2560@0.0.2560.1440" timestamp="1582392972716" />
-    <state width="1356" height="277" key="GridCell.Tab.0.bottom" timestamp="1582520827596">
+    <state width="1356" height="277" key="GridCell.Tab.0.bottom" timestamp="1582523287875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1356" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582520827596" />
+    <state width="1356" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582523287875" />
     <state width="1357" height="254" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1440.-645.1440.2560@0.0.2560.1440" timestamp="1582394264443" />
-    <state width="1356" height="277" key="GridCell.Tab.0.center" timestamp="1582520827596">
+    <state width="1356" height="277" key="GridCell.Tab.0.center" timestamp="1582523287875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1356" height="277" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582520827596" />
+    <state width="1356" height="277" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582523287875" />
     <state width="1357" height="254" key="GridCell.Tab.0.center/0.0.2560.1440/-1440.-645.1440.2560@0.0.2560.1440" timestamp="1582394264443" />
-    <state width="1356" height="277" key="GridCell.Tab.0.left" timestamp="1582520827596">
+    <state width="1356" height="277" key="GridCell.Tab.0.left" timestamp="1582523287875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1356" height="277" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582520827596" />
+    <state width="1356" height="277" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582523287875" />
     <state width="1357" height="254" key="GridCell.Tab.0.left/0.0.2560.1440/-1440.-645.1440.2560@0.0.2560.1440" timestamp="1582394264443" />
-    <state width="1356" height="277" key="GridCell.Tab.0.right" timestamp="1582520827596">
+    <state width="1356" height="277" key="GridCell.Tab.0.right" timestamp="1582523287875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1356" height="277" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582520827596" />
+    <state width="1356" height="277" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.-407.1080.1920@0.0.1920.1080" timestamp="1582523287875" />
     <state width="1357" height="254" key="GridCell.Tab.0.right/0.0.2560.1440/-1440.-645.1440.2560@0.0.2560.1440" timestamp="1582394264443" />
     <state x="109" y="77" key="SettingsEditor" timestamp="1582509030660">
       <screen x="0" y="0" width="1920" height="1080" />
