@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
     <script type='text/javascript'>
       google.charts.load('current', {'packages':['annotationchart']});
       google.charts.setOnLoadCallback(drawChart);
@@ -53,5 +54,34 @@
     <a href="ftp://ch930701.ipdisk.co.kr"> my ftp server </a>
 </div>
 <div id="chart_div" style="width: 900px; height: 500px;"></div>
+
+<div id="container" style="width: 75%;">
+    <canvas id="pie-chart"></canvas>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+  <script>
+
+    var config = {
+      type: 'line',
+      data: {
+        datasets: [{
+          data: {{ data|safe }},
+          label: 'BTCUSTD Closing Price',
+        }],
+        labels:{{ labels|safe }},
+      },
+      options: {
+        responsive: true
+      }
+    };
+
+    window.onload = function() {
+      var ctx = document.getElementById('pie-chart').getContext('2d');
+      window.myPie = new Chart(ctx, config);
+    };
+
+  </script>
+
 </body>
 </html>
